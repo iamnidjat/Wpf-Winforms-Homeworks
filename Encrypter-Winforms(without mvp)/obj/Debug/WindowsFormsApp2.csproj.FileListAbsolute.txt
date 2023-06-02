@@ -1,0 +1,32 @@
+C:\Users\gurba\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\gurba\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\gurba\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\gurba\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\gurba\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gurba\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\gurba\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\gurba\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\gurba\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\gurba\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\gurba\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\gurba\OneDrive\Рабочий стол\Новая сжатая ZIP-папка\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\gurba\OneDrive\Рабочий стол\Новая сжатая ZIP-папка\bin\Debug\WindowsFormsApp2.exe
+C:\Users\gurba\OneDrive\Рабочий стол\Новая сжатая ZIP-папка\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\gurba\OneDrive\Рабочий стол\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\gurba\OneDrive\Рабочий стол\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gurba\OneDrive\Рабочий стол\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\gurba\OneDrive\Рабочий стол\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\gurba\OneDrive\Рабочий стол\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\gurba\OneDrive\Рабочий стол\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\gurba\OneDrive\Рабочий стол\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp2.exe
+C:\Users\gurba\OneDrive\Рабочий стол\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp2.pdb

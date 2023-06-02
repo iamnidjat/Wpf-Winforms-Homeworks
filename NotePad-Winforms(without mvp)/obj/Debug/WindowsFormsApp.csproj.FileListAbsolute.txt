@@ -1,0 +1,23 @@
+C:\Users\Skib_inr0\source\repos\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Skib_inr0\source\repos\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Skib_inr0\source\repos\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Skib_inr0\source\repos\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Skib_inr0\source\repos\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Skib_inr0\source\repos\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Skib_inr0\source\repos\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Skib_inr0\source\repos\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Skib_inr0\source\repos\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Skib_inr0\source\repos\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\WindowsFormsApp.NotePad.resources
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\WindowsFormsApp.Find.resources
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\WindowsFormsApp.Replace.resources

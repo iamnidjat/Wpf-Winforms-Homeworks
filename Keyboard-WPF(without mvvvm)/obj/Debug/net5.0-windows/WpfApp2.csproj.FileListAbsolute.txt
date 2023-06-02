@@ -1,0 +1,66 @@
+C:\Users\gurba\source\repos\WpfApp2\bin\Debug\net5.0-windows\WpfApp2.exe
+C:\Users\gurba\source\repos\WpfApp2\bin\Debug\net5.0-windows\WpfApp2.deps.json
+C:\Users\gurba\source\repos\WpfApp2\bin\Debug\net5.0-windows\WpfApp2.runtimeconfig.json
+C:\Users\gurba\source\repos\WpfApp2\bin\Debug\net5.0-windows\WpfApp2.runtimeconfig.dev.json
+C:\Users\gurba\source\repos\WpfApp2\bin\Debug\net5.0-windows\WpfApp2.dll
+C:\Users\gurba\source\repos\WpfApp2\bin\Debug\net5.0-windows\ref\WpfApp2.dll
+C:\Users\gurba\source\repos\WpfApp2\bin\Debug\net5.0-windows\WpfApp2.pdb
+C:\Users\gurba\source\repos\WpfApp2\obj\Debug\net5.0-windows\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\gurba\source\repos\WpfApp2\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\gurba\source\repos\WpfApp2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\gurba\source\repos\WpfApp2\obj\Debug\net5.0-windows\WpfApp2_MarkupCompile.cache
+C:\Users\gurba\source\repos\WpfApp2\obj\Debug\net5.0-windows\WpfApp2_MarkupCompile.lref
+C:\Users\gurba\source\repos\WpfApp2\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\gurba\source\repos\WpfApp2\obj\Debug\net5.0-windows\WpfApp2.g.resources
+C:\Users\gurba\source\repos\WpfApp2\obj\Debug\net5.0-windows\WpfApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurba\source\repos\WpfApp2\obj\Debug\net5.0-windows\WpfApp2.AssemblyInfoInputs.cache
+C:\Users\gurba\source\repos\WpfApp2\obj\Debug\net5.0-windows\WpfApp2.AssemblyInfo.cs
+C:\Users\gurba\source\repos\WpfApp2\obj\Debug\net5.0-windows\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\gurba\source\repos\WpfApp2\obj\Debug\net5.0-windows\WpfApp2.dll
+C:\Users\gurba\source\repos\WpfApp2\obj\Debug\net5.0-windows\ref\WpfApp2.dll
+C:\Users\gurba\source\repos\WpfApp2\obj\Debug\net5.0-windows\WpfApp2.pdb
+C:\Users\gurba\source\repos\WpfApp2\obj\Debug\net5.0-windows\WpfApp2.genruntimeconfig.cache
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\bin\Debug\net5.0-windows\WpfApp2.exe
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\bin\Debug\net5.0-windows\WpfApp2.deps.json
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\bin\Debug\net5.0-windows\WpfApp2.runtimeconfig.json
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\bin\Debug\net5.0-windows\WpfApp2.runtimeconfig.dev.json
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\bin\Debug\net5.0-windows\WpfApp2.dll
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\bin\Debug\net5.0-windows\ref\WpfApp2.dll
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\bin\Debug\net5.0-windows\WpfApp2.pdb
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\net5.0-windows\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\net5.0-windows\WpfApp2_MarkupCompile.cache
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\net5.0-windows\WpfApp2_MarkupCompile.lref
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\net5.0-windows\WpfApp2.g.resources
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\net5.0-windows\WpfApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\net5.0-windows\WpfApp2.AssemblyInfoInputs.cache
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\net5.0-windows\WpfApp2.AssemblyInfo.cs
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\net5.0-windows\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\net5.0-windows\WpfApp2.dll
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\net5.0-windows\ref\WpfApp2.dll
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\net5.0-windows\WpfApp2.pdb
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\net5.0-windows\WpfApp2.genruntimeconfig.cache
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\bin\Debug\net5.0-windows\WpfApp2.exe
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\bin\Debug\net5.0-windows\WpfApp2.deps.json
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\bin\Debug\net5.0-windows\WpfApp2.runtimeconfig.json
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\bin\Debug\net5.0-windows\WpfApp2.runtimeconfig.dev.json
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\bin\Debug\net5.0-windows\WpfApp2.dll
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\bin\Debug\net5.0-windows\ref\WpfApp2.dll
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\bin\Debug\net5.0-windows\WpfApp2.pdb
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\obj\Debug\net5.0-windows\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\obj\Debug\net5.0-windows\WpfApp2_MarkupCompile.cache
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\obj\Debug\net5.0-windows\WpfApp2_MarkupCompile.lref
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\obj\Debug\net5.0-windows\WpfApp2.g.resources
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\obj\Debug\net5.0-windows\WpfApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\obj\Debug\net5.0-windows\WpfApp2.AssemblyInfoInputs.cache
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\obj\Debug\net5.0-windows\WpfApp2.AssemblyInfo.cs
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\obj\Debug\net5.0-windows\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\obj\Debug\net5.0-windows\WpfApp2.dll
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\obj\Debug\net5.0-windows\ref\WpfApp2.dll
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\obj\Debug\net5.0-windows\WpfApp2.pdb
+C:\Users\gurba\Downloads\New Архив ZIP - WinRAR\obj\Debug\net5.0-windows\WpfApp2.genruntimeconfig.cache

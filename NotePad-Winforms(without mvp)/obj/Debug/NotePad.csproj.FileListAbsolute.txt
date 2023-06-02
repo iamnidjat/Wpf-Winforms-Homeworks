@@ -1,0 +1,40 @@
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\NotePad.csproj.AssemblyReference.cache
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\NotePad.csproj.SuggestedBindingRedirects.cache
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\WindowsFormsApp.NotePad.resources
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\WindowsFormsApp.Find.resources
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\WindowsFormsApp.Replace.resources
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\NotePad.csproj.GenerateResource.cache
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\gurba\OneDrive\Рабочий стол\Menu\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\NotePad.csproj.AssemblyReference.cache
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp.NotePad.resources
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp.Find.resources
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp.Replace.resources
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\NotePad.csproj.GenerateResource.cache
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp.exe
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\bin\Debug\WindowsFormsApp.exe
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\bin\Debug\WindowsFormsApp.pdb
+C:\Users\gurba\OneDrive\Рабочий стол\New Архив ZIP - WinRAR\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\gurba\OneDrive\Рабочий стол\New Архив ZIP - WinRAR\bin\Debug\WindowsFormsApp.exe
+C:\Users\gurba\OneDrive\Рабочий стол\New Архив ZIP - WinRAR\bin\Debug\WindowsFormsApp.pdb
+C:\Users\gurba\OneDrive\Рабочий стол\New Архив ZIP - WinRAR\obj\Debug\NotePad.csproj.AssemblyReference.cache
+C:\Users\gurba\OneDrive\Рабочий стол\New Архив ZIP - WinRAR\obj\Debug\NotePad.csproj.SuggestedBindingRedirects.cache
+C:\Users\gurba\OneDrive\Рабочий стол\New Архив ZIP - WinRAR\obj\Debug\WindowsFormsApp.NotePad.resources
+C:\Users\gurba\OneDrive\Рабочий стол\New Архив ZIP - WinRAR\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\gurba\OneDrive\Рабочий стол\New Архив ZIP - WinRAR\obj\Debug\WindowsFormsApp.Replace.resources
+C:\Users\gurba\OneDrive\Рабочий стол\New Архив ZIP - WinRAR\obj\Debug\NotePad.csproj.GenerateResource.cache
+C:\Users\gurba\OneDrive\Рабочий стол\New Архив ZIP - WinRAR\obj\Debug\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\gurba\OneDrive\Рабочий стол\New Архив ZIP - WinRAR\obj\Debug\WindowsFormsApp.exe
+C:\Users\gurba\OneDrive\Рабочий стол\New Архив ZIP - WinRAR\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp.FindNext.resources
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp.FindPrevious.resources
+C:\Users\Gurb_oa08\Desktop\Новая сжатая ZIP-папка\obj\Debug\WindowsFormsApp.GoTo.resources

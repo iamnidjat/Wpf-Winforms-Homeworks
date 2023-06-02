@@ -1,0 +1,142 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" MaxHeight="450" MaxWidth="800">
+    <Window.Resources>
+        <ControlTemplate x:Key="RoundedButtonTemplate" TargetType="{x:Type Button}">
+            <Border x:Name="border" 
+                    CornerRadius="10" 
+                    BorderBrush="{TemplateBinding BorderBrush}" 
+                    BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}" SnapsToDevicePixels="True">
+                <ContentPresenter x:Name="contentPresenter" ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}" ContentStringFormat="{TemplateBinding ContentStringFormat}" Focusable="False" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsDefaulted" Value="True">
+                    <Setter Property="BorderBrush" TargetName="border" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                </Trigger>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" TargetName="border" Value="#FFBEE6FD"/>
+                    <Setter Property="BorderBrush" TargetName="border" Value="#FF3C7FB1"/>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" TargetName="border" Value="#FFC4E5F6"/>
+                    <Setter Property="BorderBrush" TargetName="border" Value="#FF2C628B"/>
+                </Trigger>
+                <Trigger Property="ToggleButton.IsChecked" Value="True">
+                    <Setter Property="Background" TargetName="border" Value="#FFBCDDEE"/>
+                    <Setter Property="BorderBrush" TargetName="border" Value="#FF245A83"/>
+                </Trigger>
+                <Trigger Property="IsEnabled" Value="False">
+                    <Setter Property="Background" TargetName="border" Value="#FFF4F4F4"/>
+                    <Setter Property="BorderBrush" TargetName="border" Value="#FFADB2B5"/>
+                    <Setter Property="TextElement.Foreground" TargetName="contentPresenter" Value="#FF838383"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <WrapPanel>
+            <Label x:Name="InfoLabel" Content="Enter words as quickly as possible! Good luck!" FontSize="20"></Label>
+            <CheckBox x:Name="CaseSensitiveCheckBox" Content="Case Sensitive" FontSize="20" VerticalContentAlignment="Center" Width="152"/>
+        </WrapPanel>
+        
+        <WrapPanel Grid.Row="4">
+            <Button x:Name="LabelApost" Content="`" Background="Pink" Width ="45" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Label1" Content="1" Background="Pink" Width ="45" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Label2" Content="2" Background="Pink" Width ="45" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Label3" Content="3" Background="Yellow" Width ="45" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Label4" Content="4" Background="LightGreen" Width ="45" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Label5" Content="5" Background="LightBlue" Width ="45" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Label6" Content="6" Background="LightBlue" Width ="45" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Label7" Content="7" Background="Violet" Width ="45" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Label8" Content="8" Background="Violet" Width ="45" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Label9" Content="9" Background="Pink" Width ="45" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Label0" Content="0" Background="Yellow" Width ="45" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="LabelMinus" Content="-" Background="LightGreen" Width ="45" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="LabelEquals" Content="=" Background="LightGreen" Width ="45" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="LabelBackspace" Content="Backspace" Background="Gray" Width="130"  Margin="0 5 0 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+        </WrapPanel>
+
+        <WrapPanel Grid.Row="5">
+            <Button x:Name="LabelTab" Content="Tab" Background="Gray" Width ="115" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labelq" Content="q" Background="Pink" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labelw" Content="w" Background="Yellow" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labele"  Content="e" Background="LightGreen" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labelr" Content="r" Background="LightBlue" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labelt" Content="t" Background="LightBlue" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labely" Content="y" Background="Violet" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labelu" Content="u" Background="Violet" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labeli" Content="i" Background="Pink" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labelo" Content="o" Background="Yellow" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labelp" Content="p" Background="LightGreen" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="LabelLSB" Content="[" Background="LightGreen" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="LabelRSB" Content="]" Background="LightGreen" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="LabelBackSlash" Content="\" Background="LightGreen" Width ="120" Margin="0 5 0 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+        </WrapPanel>
+
+        <WrapPanel Grid.Row="6">
+            <Button x:Name="LabelCaps" Content="Caps" Background="Gray" Width ="140" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labela" Content="a" Background="Pink" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labels" Content="s" Background="Yellow" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labeld" Content="d" Background="LightGreen" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labelf" Content="f" Background="LightBlue" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labelg" Content="g" Background="LightBlue" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labelh" Content="h" Background="Violet" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labelj" Content="j" Background="Violet" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labelk" Content="k" Background="Pink" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labell" Content="l" Background="Yellow" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="LabelSemicolon" Content=";" Background="LightGreen" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="LabelApost2" Content="'" Background="LightGreen" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+           <Button x:Name="LabelEnter" Content="Enter" Background="Gray" Width ="140" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+        </WrapPanel>
+
+        <WrapPanel Grid.Row="7">
+            <Button x:Name="LabelShift" Content="Shift" Background="Gray" Width ="160" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labelz" Content="z" Background="Pink" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labelx" Content="x" Background="Yellow" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labelc" Content="c" Background="LightGreen" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labelv" Content="v" Background="LightBlue" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labelb" Content="b" Background="LightBlue" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labeln" Content="n" Background="Violet" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="Labelm" Content="m" Background="Violet" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="LabelComma" Content="," Background="Pink" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="LabelPoint" Content="." Background="Yellow" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="LabelSlash" Content="/" Background="LightGreen" Width ="40" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="LabelShift2" Content="Shift" Background="Gray" Width ="165" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+        </WrapPanel>
+
+        <WrapPanel Grid.Row="8">
+            <Button x:Name="LabelCtrl" Content="Ctrl" Background="Gray" Width ="90" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="LabelWin" Content="Win" Background="Gray" Width ="90" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="LabelAlt" Content="Alt" Background="Gray" Width ="90" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="LabelSpace" Content="Space" Background ="Orange" Width ="200" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="LabelAlt2" Content="Alt" Background="Gray" Width ="90" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="LabelWin2" Content="Win" Background="Gray" Width ="90" Margin="0 5 5 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+            <Button x:Name="LabelCtrl2" Content="Ctrl" Background="Gray" Width ="100" Margin="0 5 0 0" Height="40" Template="{StaticResource RoundedButtonTemplate}" Cursor="Hand"/>
+        </WrapPanel>
+
+        <TextBox x:Name="ShowBox" Grid.Row="2" Background="Aqua" IsReadOnly="True" FontSize="30"/>
+        <TextBox x:Name="InputBox" Grid.Row="3" Background="Aqua" IsReadOnly="True" FontSize="30"/>
+        <Button x:Name="StartButton" Grid.Row="1" Content="Start" Width="250" Height="20"></Button>
+        <Button x:Name="StopButton" Grid.Row="1" Content="Stop" Width="250" Height="20" HorizontalAlignment="Right"></Button>
+        <Label x:Name="TimerLabel" Grid.Row="0" HorizontalAlignment="Right"/>
+        
+    </Grid>
+</Window>
